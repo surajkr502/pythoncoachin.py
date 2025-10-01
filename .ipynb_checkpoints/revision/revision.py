@@ -20,5 +20,20 @@
 
 
 
-my_range = range(1,11,-1) 
-print(list(my_range))
+# my_range = range(1,11,-1) 
+# print(list(my_range))
+
+# import my_module
+# print(my_module.greet("suraj"))
+# print(my_module.pi_value)
+
+
+
+# floor division 
+# print(10/3)
+# print(10//3)
+# print(7.5//2)
+# print(-10/3)
+# print(-10//3)
+
+
