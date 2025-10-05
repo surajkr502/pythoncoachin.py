@@ -37,3 +37,36 @@
 # print(-10//3)
 
 
+# find greater no. 
+# x=int(input("enter any no.:"))
+# y=int(input("enter any no.:"))
+# z=int(input("enter any no.:"))
+# if x>y:
+#     if x>z:
+#         print("Greater no. is x")
+#     else:
+#         print("Greater no. is z")
+# else:
+#     if y>z:
+#         print("Greater no. is y")
+#     else:
+#         print("Greater no. is z")
+
+
+# range 
+
+# x=int(input("enter a no.:"))
+# while x<=5:
+#     print(x)
+#     x+=1
+
+# x=int(input("enter a no.:"))
+# while x<=5:
+#     if x<5:
+#         print(x,end=",")
+#     else:
+#         print(x,end=" ")
+#     x+=1
+
+
+
